@@ -15,7 +15,10 @@ I am a Dynamics 365 Business Central Support Engineer with experience supporting
 ## Current Projects
 
 ### SQL Injection Vulnerability Assessment
-Status: In Progress
+A security assessment demonstrating exploitation of a SQL Injection vulnerability leading to database enumeration and credential extraction.
+
+Repository:
+https://github.com/ije001/sql-injection-vulnerability-assessment
 
 ### IDOR Vulnerability Assessment
 Status: Planned

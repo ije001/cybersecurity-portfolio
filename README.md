@@ -21,7 +21,9 @@ Repository:
 https://github.com/ije001/sql-injection-vulnerability-assessment
 
 ### IDOR Vulnerability Assessment
-Status: Planned
+
+Repository:
+https://github.com/ije001/idor-bola-vulnerability-assessment
 
 ### Ubuntu Server Security Hardening
 Status: Planned
